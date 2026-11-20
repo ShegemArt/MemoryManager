@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MemoryManager/MemoryManager.vcxproj" Id="d0a341a7-dc95-4ac9-901f-52f79a5d81b1" />
+</Solution>
